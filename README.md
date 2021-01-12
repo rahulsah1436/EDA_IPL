@@ -14,7 +14,7 @@ This repository is about EDA performed on Indian Premier League Data available b
 - It has a python notebook where all the coding has been done
 - It also has the relevant datasets used for this analysis
 ### Brief Overview of the steps followed in this project
-There are 2 datasets used for the analysis. 'matches' dataset gives information on all the matches played in IPL between 2008 and 2018 i.e. information on the following:
+There are 2 datasets used for the analysis. 'matches' dataset gives information on all the matches played in IPL between 2008 and 2018 i.e. information on the following:\
 1.Season\
 2.Venue\
 3.City\
@@ -22,7 +22,7 @@ There are 2 datasets used for the analysis. 'matches' dataset gives information 
 5.Winner\
 6.Toss Winner\
 7.Winning margin\
-8.Umpires\
+8.Umpires
 
 
 On the other hand 'deliveries' dataset gives ball by ball information on every match played during 2008 - 2018. In a nutshell it provides information on the following
@@ -31,7 +31,7 @@ On the other hand 'deliveries' dataset gives ball by ball information on every m
 2.Extras by bowlers/fielding team\
 3.Wickets taken\
 4.Types of dismissals\
-5.Venue\ 
+5.Venue
 It basically provides individual records of players.
 
 **Important observations that I made during Exploratory Data Analysis**
