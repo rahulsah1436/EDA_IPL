@@ -31,7 +31,7 @@ On the other hand 'deliveries' dataset gives ball by ball information on every m
 2.Extras by bowlers/fielding team\
 3.Wickets taken\
 4.Types of dismissals\
-5.Venue
+5.Venue\
 It basically provides individual records of players.
 
 **Important observations that I made during Exploratory Data Analysis**
